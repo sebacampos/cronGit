@@ -1,0 +1,7 @@
+# venv
+cronGitEnv
+
+# IDE
+.vscode/
+
+.DS_Store
